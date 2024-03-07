@@ -6,3 +6,5 @@ cout<< "Muhammad Bilal Saleem";
 cout << "the addition of two number are:"<<a+b;
 //subtraction
 cout << "the subtraction of two number are:"<<a-b;
+//multiplication
+cout << "the multiplication of two number are:"<<a*b;
