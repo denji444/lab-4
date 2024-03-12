@@ -1,8 +1,6 @@
 #include<iostream>
 using namespace std;
 int main()
-cout<< "Muhammad Bilal Saleem";
+cout<< "Farhan Javed";
 //addition
-cout << "the addition of two number are:"<<a+b;
-//subtraction
-cout << "the subtraction of two number are:"<<a-b;
+cout<< "The addition of two number are:"<<a+b<<endl;
