@@ -1,1 +1,7 @@
-
+#include<iostream>
+using namespace std;
+int main(){
+cout<<"Your Name:"<<"Farhan Javed"<<endl;
+cout<<"Your Roll Number:"<<"23-st-034"<<endl;
+cout<<"Your Department:"<<"Software Engineering Technology"<<endl;
+}
